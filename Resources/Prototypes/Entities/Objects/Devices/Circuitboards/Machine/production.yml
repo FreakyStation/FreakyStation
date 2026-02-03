@@ -1321,7 +1321,7 @@
     - type: Sprite
       state: service
     - type: MachineBoard
-      prototype: BoozeDispenserEmpty
+      prototype: BoozeDispenser # Orion-Edit
       stackRequirements:
         Steel: 5
       tagRequirements:
@@ -1367,7 +1367,7 @@
     - type: Sprite
       state: service
     - type: MachineBoard
-      prototype: SodaDispenserEmpty
+      prototype: SodaDispenser # Orion-Edit
       stackRequirements:
         Steel: 5
       tagRequirements:
