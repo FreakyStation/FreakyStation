@@ -281,6 +281,9 @@ DrinkBeesKnees: RandomDrinkGlass
 ImmovableRodSkibidi: ImmovableRod
 MobRatKingBuff: MobRatKing
 
+BoozeDispenserEmpty: BoozeDispenser
+SodaDispenserEmpty: SodaDispenser
+
 # Orion-End
 
 # Goobstation - Submarine from DeltaV
