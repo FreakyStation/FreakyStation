@@ -459,26 +459,26 @@
   name: outer command PDA
   description: Purple pda for outer command members.
   components:
-  - type: Appearance
-    appearanceDataInit:
-      enum.PdaVisuals.PdaType:
-        !type:String
-        pda-outcom
-  - type: Icon
-    sprite: _Goobstation/Objects/Devices/pda.rsi
-    state: pda-outcom
   - type: Sprite
-    sprite: _Goobstation/Objects/Devices/pda.rsi
+#    sprite: _Goobstation/Objects/Devices/pda.rsi # Orion-Edit: Removed
+  # Orion-Start
     layers:
     - map: [ "enum.PdaVisualLayers.Base" ]
-      state: "pda-outcom"
-    - state: "light_overlay"
+      state: pda_base
+      color: "#6A5ACD"
+    - state: pda_buttons
+    - state: pda_stripe_double
+      color: "#FFFF00"
+    - map: [ "enum.PdaVisualLayers.Screen" ]
+      state: pda_screen_borders
+    - state: light_overlay
       map: [ "enum.PdaVisualLayers.Flashlight" ]
-      shader: "unshaded"
+      shader: unshaded
       visible: false
-    - state: "id_overlay"
+    - state: id_overlay
       map: [ "enum.PdaVisualLayers.IdLight" ]
-      shader: "unshaded"
+      shader: unshaded
       visible: false
+  # Orion-End
   - type: Pda
     id: OuterCommandIDCard
