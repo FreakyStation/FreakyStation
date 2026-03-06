@@ -10,8 +10,8 @@ stack-unprocessed-bananium-ore = необработанная бананиумн
 stack-unprocessed-coal = необработанный уголь
 stack-unprocessed-artifact-fragment-ore = незавершённый фрагмент артефакта
 stack-ashwood-plank = {$amount ->
-[1] пепельная доска
-*[other] пепельных досок
+[1] доски пепельного дерева
+*[other] досок пепельного дерева
 }
 stack-watcher-wing = {$amount ->
 [1] крыло наблюдателя
