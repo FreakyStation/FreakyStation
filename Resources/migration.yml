@@ -332,7 +332,7 @@ ClothingHeadHatFedoraBlack: null
 ClothingHeadHatFedoraChoc: null
 ClothingHeadHatFezMantis: null
 ClothingHeadPrisonGuard: null
-ClothingUniformMartialGi: null
+ClothingUniformMartialGi: ClothingUniformGi # Orion-Edit
 ClothingUniformTShirtKhakiPants: null
 ComputerShipyard: null
 CourierBag: null
@@ -407,7 +407,7 @@ Roboisseur: null
 SalvagePartsSpawnerLow: null
 SalvagePartsSpawnerMid: null
 SecBreachingHammer: null
-Shinai: null
+#Shinai: null # Orion-Edit: Removed
 ShockCollar: null
 shuttle_manipulator: null
 SignConspiracyBoard: null
@@ -433,7 +433,7 @@ SpeedLoaderSpecialPractice: null
 SuitStorageCorpsman: null
 SuitStorageParamedic: null
 TableWoodReinforced: TableWood
-tatamimat: null
+#TatamiMat: null # Orion-Edit: Removed
 ToyRenault: null
 ToySiobhan: null
 VendingMachineBoozeUnlocked: null
@@ -441,7 +441,7 @@ VendingMachineBoxingDrobe: null
 VendingMachineCourierDrobe: null
 VendingMachineMNKDrobe: null
 VendingMachineRepDrobe: null
-WallPaper: null
+#WallPaper: null # Orion-Edit
 WarpPointAI: null
 WarpPointArrivals: null
 WarpPointAtmos: null
