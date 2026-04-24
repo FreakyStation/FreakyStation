@@ -1,0 +1,62 @@
+- type: ttsVoice
+  id: Taskmaster
+  name: Taskmaster
+  sex: Male
+  speaker: boyar
+  roundStart: false
+
+- type: ttsVoice
+  id: Dryad
+  name: Dryad
+  sex: Female
+  speaker: vika
+  roundStart: false
+
+- type: ttsVoice
+  id: Chen
+  name: Chen
+  sex: Male
+  speaker: eugene
+  roundStart: false
+
+- type: ttsVoice
+  id: Rat
+  name: Rat
+  sex: Male
+  speaker: zanud
+  roundStart: false
+
+- type: ttsVoice
+  id: Kelthuzad
+  name: Kelthuzad
+  sex: Male
+  speaker: garithos
+  roundStart: false
+
+- type: ttsVoice
+  id: TrainingRobot
+  name: TrainingRobot
+  sex: Male
+  speaker: semen
+  roundStart: false
+
+- type: ttsVoice
+  id: Gizmo
+  name: Gizmo
+  sex: Male
+  speaker: semen
+  roundStart: false
+
+- type: ttsVoice
+  id: Glados
+  name: Glados
+  sex: Female
+  speaker: xenia
+  roundStart: false
+
+- type: ttsVoice
+  id: Meepo
+  name: Meepo
+  sex: Male
+  speaker: zanud
+  roundStart: false
